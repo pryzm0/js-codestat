@@ -1,6 +1,7 @@
 # js-codestat
 Shell script for rough JavaScript and CoffeeScript code stats.
-Useful for quick-and-dirty analysis of project codebase:
+
+Useful for quick-and-dirty analysis of project codebase.
 
 ## Example
     $ . ~/Scripts/js-codestat/codestat.sh
