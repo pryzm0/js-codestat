@@ -1,5 +1,5 @@
 # js-codestat
-Shell script for rough JavaScript and CoffeeScript code stats.
+Bash script for rough JavaScript and CoffeeScript code stats.
 
 Useful for quick-and-dirty analysis of project codebase.
 
